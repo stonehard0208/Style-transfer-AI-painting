@@ -33,7 +33,7 @@ The original paper used L-BFGS as the optimizer. In the actual operation, we fou
 
 原论文使用L-BFGS作为优化器，在实际运行过程中，我们发现其速度较慢，且完全改变了原图的颜色，修改为Adam优化器。
 
-![1](pic/20.JPG)
+![1](pic/20.jpg)
 ![1](pic/21.JPG)
 
 ### 3. Modify the loss function 修改损失函数
